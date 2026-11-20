@@ -61,9 +61,8 @@ Environment used for the experiments: Python 3.13.15, PyTorch 2.11.0+cu130, Ultr
 
 | Item | Value |
 |---|---|
-| YOLOv8 variant / image size | `<fill in>` |
-| Epochs / batch size | `<fill in>` |
-| Optimizer / learning rate | `<fill in>` |
+| YOLOv8 variant / image size | yolov8n / 640 |
+| Epochs / batch size | `50 /16` |
 
 ## Compiling the paper
 
